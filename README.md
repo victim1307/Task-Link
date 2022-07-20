@@ -100,4 +100,5 @@ def get_data(url):
     else:
         print("Error "+str(r.status_code)+" "+url+" not available")
 
-get_data_from_google()```
+get_data_from_google()
+```
