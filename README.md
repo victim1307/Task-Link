@@ -102,3 +102,4 @@ def get_data(url):
 
 get_data_from_google()
 ```
+Only issue i faced is while scraping im getting frequentlu blocked, i have avoided most of it by using random user agents, and we even avoid few more by solving capta, and i have the written code for solving capta, tho few times i couldn't extract data properly, that might be because of IP blocking, even this can be avoided by randomization of IP address in python
